@@ -9,6 +9,7 @@ exist_login = 'testemail@gmail.com'
 password = 'VeRy_DiFfIcUlT_password142536'
 error_registration_message = 'Ошибка'
 red_colour_of_border = 'rgb(255, 105, 114)'
+email = Helpers.make_random_email()
 random_wrong_email = Helpers.make_random_wrong_email()
 product_name = Helpers.make_random_product_name()
 product_description = "описание тестового объявления"
